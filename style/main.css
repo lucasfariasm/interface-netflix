@@ -104,3 +104,11 @@ header nav a:hover {
 .carrosel-filmes {
   margin-top: 5px;
 }
+
+.item img{
+  cursor:pointer;
+  border-radius: 25px;
+}
+.item img:hover {
+  border: 2px solid var(--vermelho);
+}
